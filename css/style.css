@@ -1,0 +1,36 @@
+.elementos{
+   color: brown;
+max-width: 700px;
+margin: auto;
+text-align: center;
+}
+.info{
+   
+max-width: 700px;
+margin: auto;
+}
+#texto{
+    color: rgb(43, 145, 43);
+}
+h1{
+    color: brown;
+}
+p{
+    color:rgb(43, 145, 43); 
+}
+label{
+    color: rgb(52, 67, 150);
+}
+button{
+    border-radius: 8px;
+    color: brown;
+border-style: dashed;
+}
+button:hover{
+    background-color: rgb(105, 183, 235);
+    color:rgb(43, 145, 43); 
+}
+#resultado{
+    color: brown;
+
+}
